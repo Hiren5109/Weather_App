@@ -11,4 +11,4 @@
 
 # 3. **JavaScript**: JavaScript is responsible for fetching weather data from a weather API based on the user's location input or selection. It handles asynchronous requests to the API, parses the received data, and updates the HTML elements dynamically to display the weather information. JavaScript may also handle user interactions, such as submitting location queries or toggling between different units (e.g., Celsius and Fahrenheit).
 
-Overall, the combination of HTML, CSS, and JavaScript allows for the creation of a weather web app that users can interact with to obtain current weather conditions and forecasts for various locations, presented in an aesthetically pleasing and user-friendly manner.
+# Overall, the combination of HTML, CSS, and JavaScript allows for the creation of a weather web app that users can interact with to obtain current weather conditions and forecasts for various locations, presented in an aesthetically pleasing and user-friendly manner.
